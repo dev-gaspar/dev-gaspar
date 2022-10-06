@@ -30,6 +30,8 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=AndroidStudio&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=Heroku&labelColor=0D1117)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=GoogleCloud&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
