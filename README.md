@@ -3,7 +3,7 @@
 
 🐼 Un apasionado desarrollador de software con más de un año de experiencia en proyectos desafiantes. Mi enfoque es crear soluciones efectivas y eficientes para cualquier desafío.
 
-🚀 Full Stack Developer en JavaScript, con experiencia en tecnologías como Java y Springboot.
+🚀 Full Stack Developer con experiencia en lenguajes como HTML, CSS, JavaScript y Java. De las tecnologías con las que he trabajado se destacan: Node.js, React, Express.js, Spring Boot, Thymeleaf, Tailwind CSS y Bootstrap. Además, tengo experiencia en el manejo de bases de datos como MySQL, PostgreSQL y MongoDB.
 
 📚 Actualmente, estoy cursando una carrera en Ingeniería de Sistemas y soy un autodidacta apasionado.
 
@@ -13,8 +13,9 @@
 
 **Perfil:**
 
-- 🌿 Full Stack Developer en JavaScript
-- 🔧 Experiencia en Java, Springboot y stack MERN
+🌿 Desarrollador Full Stack con experiencia en JavaScript, HTML, CSS y Java.
+🔧 Tecnologías destacadas: Node.js, React, Express.js, Spring Boot, Thymeleaf, Tailwind CSS y Bootstrap.
+💾 Manejo de bases de datos MySQL, PostgreSQL y MongoDB.
 
 **Proyectos destacados:**
 
