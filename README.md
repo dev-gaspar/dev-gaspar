@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=header)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jose+Gaspar;I'm+19+years+old;I'm+from+Colombia;I'm+studying+systems+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Jose+Gaspar;Tengo+19+años;Resido+en+Colombia;Ingeniero+de+Sistema+En+Formacion;Bienvenido!+:%29)](https://git.io/typing-svg)
 
 🐼 Un apasionado desarrollador de software con más de un año de experiencia en proyectos desafiantes. Mi enfoque es crear soluciones efectivas y eficientes para cualquier desafío.
 
