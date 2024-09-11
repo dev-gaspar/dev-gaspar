@@ -1,2 +1,2 @@
-## Hi! I'm Jose Gaspar, a Full Stack Developer with +2 years of experience 👋🏼
+## Hola!! Mi nombre es Jose Gaspar, un Full Stack Developer con +2 años de experiencia 👋🏼
 Conoce mas sobre mi perfil en mi [Portafolio 💼](https://www.devgaspar.me/)
