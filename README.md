@@ -11,4 +11,4 @@ hi, i'm jose gaspar 🐼
 
 ---
 
-🌍 Colombia |📫 [LinkedIn](https://www.linkedin.com/in/devgaspar) | ✉️ [jgasparlopez29@gmail.com](mailto:jgasparlopez29@gmail.com)
+🐼 [Portafolio](https://www.devgaspar.me/) | 📫 [LinkedIn](https://www.linkedin.com/in/devgaspar) | ✉️ [jgasparlopez29@gmail.com](mailto:jgasparlopez29@gmail.com) | 🌍 Colombia
