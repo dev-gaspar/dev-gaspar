@@ -1,7 +1,6 @@
-<table>
-  <tr>
-     <td> <img src="https://github.com/dev-gaspar/dev-gaspar/blob/main/imagen.png?raw=true" alt="avatar" height="200"/> </td> 
-    <td>
+<p align="center">
+  <img src="/imagen.png" alt="avatar" height="200"/>
+</p>
 
 ```diff
 hi, i'm jose gaspar
@@ -11,6 +10,6 @@ hi, i'm jose gaspar
 ! backend, frontend & infrastructure
 # creating tech that blends innovation and impact
 ```
-</td> </tr> </table>
 
+---
 <p align="center"> 🐼 <a href="https://www.devgaspar.me/">Portafolio</a> | 📫 <a href="https://www.linkedin.com/in/devgaspar">LinkedIn</a> | ✉️ <a href="mailto:jgasparlopez29@gmail.com">Email</a> | 🌍 Colombia </p>
