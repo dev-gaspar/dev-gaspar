@@ -3,12 +3,12 @@
 </p>
 
 ```diff
-hi, i'm jose gaspar
+hola, soy jose gaspar
 
-@@ software engineer | fullstack & devops @@
-+ building scalable solutions in cloud & web
-! backend, frontend & infrastructure
-# creating tech that blends innovation and impact
+@@ ingeniero de software | fullstack & devops @@
++ construyendo soluciones escalables en la nube y la web
+! backend, frontend e infraestructura
+# creando tecnología que combina innovación e impacto
 ```
 
 ---
