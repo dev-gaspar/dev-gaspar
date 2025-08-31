@@ -6,7 +6,7 @@
 hola, soy jose gaspar
 
 @@ ingeniero de software | fullstack & devops @@
-+ de 4 años de experiencia en desarrollo de software
++ 4 años de experiencia en desarrollo de software
 + construyendo soluciones escalables en la nube y la web
 ! backend, frontend e infraestructura
 # creando tecnología que combina innovación e impacto
