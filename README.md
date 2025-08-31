@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://s8.ezgif.com/tmp/ezgif-83eabb3c5e757c.gif"/>
+<img align="left" height="200" src="/imagen.png"/>
 
 ```diff
 hi, i'm jose gaspar 🐼
