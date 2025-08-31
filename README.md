@@ -1,14 +1,16 @@
-<img align="left" height="200" src="/imagen.png"/>
+<table>
+  <tr>
+     <td> <img src="/imagen.png" alt="avatar" height="200"/> </td> 
+    <td>
 
 ```diff
-hi, i'm jose gaspar 🐼
+hi, i'm jose gaspar
 
 @@ software engineer | fullstack & devops @@
 + building scalable solutions in cloud & web
 ! backend, frontend & infrastructure
 # creating tech that blends innovation and impact
-````
+```
+</td> </tr> </table>
 
----
-
-🐼 [Portafolio](https://www.devgaspar.me/) | 📫 [LinkedIn](https://www.linkedin.com/in/devgaspar) | ✉️ [jgasparlopez29@gmail.com](mailto:jgasparlopez29@gmail.com) | 🌍 Colombia
+<p align="center"> 🐼 <a href="https://www.devgaspar.me/">Portafolio</a> | 📫 <a href="https://www.linkedin.com/in/devgaspar">LinkedIn</a> | ✉️ <a href="mailto:jgasparlopez29@gmail.com">Email</a> | 🌍 Colombia </p>
