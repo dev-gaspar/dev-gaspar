@@ -1,6 +1,6 @@
 <table>
   <tr>
-     <td> <img src="/imagen.png" alt="avatar" height="200"/> </td> 
+     <td> <img src="https://github.com/dev-gaspar/dev-gaspar" alt="avatar" height="200"/> </td> 
     <td>
 
 ```diff
