@@ -1,7 +1,7 @@
 ## Hola, soy Jose Gaspar 👋🏼
 
 ```diff
-@@ ingeniero de software | fullstack & devops @@
+@@ ingeniero de software | fullstack, devops, ia & iot @@
 + 4 años de experiencia en desarrollo de software
 + construyendo soluciones escalables en la nube y la web
 ! backend, frontend e infraestructura
