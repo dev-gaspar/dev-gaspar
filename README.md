@@ -1,8 +1,8 @@
 ## Hola, soy Jose Gaspar 👋🏼
 
 ```diff
-@@ ai engineer | generative ai, agents & automation @@
-+ 4 años integrando ingeniería de software con ia
+@@ AI Engineer | Fullstack & DevOps @@
++ 4 años en ingeniería de software
 + orquestando agentes autónomos y flujos inteligentes
 ! llms, rag, rpa & arquitectura cloud
 # transformando procesos manuales en soluciones autónomas
