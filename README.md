@@ -31,7 +31,7 @@ I design and ship **AI agents in production**: from multimodal WhatsApp agents t
 | Project | What it is | Stack |
 |---|---|---|
 | [**jobhunter**](https://github.com/dev-gaspar/jobhunter) ![stars](https://img.shields.io/github/stars/dev-gaspar/jobhunter?style=flat&label=%E2%AD%90) | CLI that automates the LinkedIn job hunt with **4 specialized AI agents**: scans postings, filters relevance, tailors your CV per offer and emails recruiters | Python · Playwright · Gemini · Gmail SMTP |
-| [**bot-orbe**](https://github.com/dev-gaspar/bot-orbe) | Multimodal sales agent for WhatsApp: handles text, voice (Whisper) and images (Vision) | Node.js · Baileys · OpenAI Assistants · ElevenLabs · MongoDB |
+| [**bot-orbe**](https://github.com/bambai-labs/bot-orbe) | Multimodal sales agent for WhatsApp: handles text, voice (Whisper) and images (Vision) | Node.js · Baileys · OpenAI Assistants · ElevenLabs · MongoDB |
 | [**psicologo-virtual-unicordoba**](https://github.com/dev-gaspar/psicologo-virtual-unicordoba) | Virtual psychology assistant with emotion analysis + conversational AI | Next.js · Spring Boot · FastAPI · Llama 3 · PostgreSQL |
 
 ---
@@ -54,7 +54,7 @@ Diseño e implemento **agentes de IA en producción**: desde bots conversacional
 ### 🚀 Proyectos destacados
 
 - [**jobhunter**](https://github.com/dev-gaspar/jobhunter) — CLI que automatiza la búsqueda de empleo en LinkedIn con **4 agentes de IA especializados**: escanea ofertas, filtra relevancia, personaliza tu CV por oferta y escribe a reclutadores.
-- [**bot-orbe**](https://github.com/dev-gaspar/bot-orbe) — Agente de ventas multimodal para WhatsApp: texto, voz (Whisper) e imagen (Vision).
+- [**bot-orbe**](https://github.com/bambai-labs/bot-orbe) — Agente de ventas multimodal para WhatsApp: texto, voz (Whisper) e imagen (Vision).
 - [**psicologo-virtual-unicordoba**](https://github.com/dev-gaspar/psicologo-virtual-unicordoba) — Asistente psicológico virtual con análisis de emociones + IA conversacional.
 
 Si necesitas llevar un agente de IA de prototipo a producción o automatizar un proceso manual que está costando horas — hablemos: **jgasparlopez29@gmail.com**
