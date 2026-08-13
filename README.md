@@ -36,14 +36,6 @@ I design and ship **AI agents in production**: from multimodal WhatsApp agents t
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gaspar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Let's talk
 
 If you need to take an AI agent from prototype to production, automate a manual process that's eating hours, or add someone who crosses backend, mobile and DevOps without handoffs — reach out.
